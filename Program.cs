@@ -7,7 +7,8 @@ namespace Code
     {
         static void Main(string[] args)
         {
-            
+            IChapter c1 = new Chapter1();
+            c1.Run();
         }
     }
 }
