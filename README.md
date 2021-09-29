@@ -1,4 +1,4 @@
-# DesignPatterns
+# Design Patterns
 Working through examples from the Head First Design Patterns book
 
 ## How to run
