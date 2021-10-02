@@ -12,3 +12,4 @@ To select which chapters you want to run, edit the Program.cs file.
 | ------ | ------ |
 | Chapter 1 | Strategy |
 | Chapter 2 | Observer |
+| Chapter 3 | Decorator |

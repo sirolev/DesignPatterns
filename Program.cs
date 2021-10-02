@@ -7,11 +7,16 @@ namespace Code
     {
         static void Main(string[] args)
         {
-            IChapter c1 = new Chapter1();
-            //c1.Run();
+            // set to chapter number you want to run
+            int runChapter = 3;
 
-            IChapter c2 = new Chapter2();
-            c2.Run();
+            IChapter[] chapters = {
+                new Chapter1(),
+                new Chapter2(),
+                new Chapter3()
+                };
+            
+            chapters[runChapter - 1].Run();
         }
     }
 }
