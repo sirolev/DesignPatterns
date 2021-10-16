@@ -14,3 +14,4 @@ To select which chapters you want to run, edit the Program.cs file.
 | Chapter 2 | Observer |
 | Chapter 3 | Decorator |
 | Chapter 4 | Factory |
+| Chapter 5 | Singleton |
